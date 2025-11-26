@@ -1,3 +1,14 @@
+---
+layout: project
+title: "PubSub"
+slug: pubsub
+guilds:
+  - lorekeepers
+link: "https://github.com/High-Desert-Institute/pubsub"
+summary: >
+  A C++17 Notcurses reader/publisher for RSS, Atom, JSON, Meshtastic, via http/https/ipfs/ipns/tor/etc with logic bots.
+---
+
 # PubSub — C++17 Notcurses RSS Reader & Publisher
 A pubsub reader/publisher for rss/atom/json/meshtastic/etc which works on http/https/ipfs/ipns/tor and includes composable, functional logic "bots" including llms.
 
