@@ -37,6 +37,18 @@ A central priority of PubSub is to provide a high-speed, high-bandwidth, low-lat
         5. Bots
         6. Library
         0. Settings
+            1. 
+            2. Pub Settings
+            3. Sub Settings
+                1. HTTP/S Settings
+                2. IPFS Settings
+                3. Tor Settings
+                4. Meshtastic Settings
+            4. Task Settings
+                1. Task Queue Settings 
+            5. Bot Settings
+                1. LLM Settings
+            6. Library Settings
             9. Exit (opens confirmation modal)
 *   **10-Key & D-Pad Parity:** The interface is fully navigable using interchangable approaches on different kinds of devices; for example, a standard desktop 10-key pad, a Steam Deck D-pad + A-Key, or arrow keys + enter. These should all be re-mappable for whatever kind of interface people want to use.
 *   **Zero Latency:** Navigation through hierarchies, modals, and context menus must occur instantly with standard enter/escape for yes/no and otherise generally simplified and predictable inputs and results, allowing users to traverse complex trees faster than the screen can refresh.
